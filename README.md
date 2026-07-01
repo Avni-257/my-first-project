@@ -1,2 +1,2 @@
 # my-first-project
-Testing out GitHub for the first time
+Hi! I'm learning how to use GitHub so I can contribute to open-source projects and prepare for GSoC.
